@@ -1,7 +1,8 @@
 # currency-conversion-service
 
 **Microservices with Spring Boot and Spring Cloud**
-We've two different Microservices with spring-boot, Eureka service for name servers
+
+In this project we've two different Microservices created using spring-boot. Below is the list of the implementations that we've done.
 
 1) We've established communication between Microservices.
 2) Centralized Microservice Configuration with Spring Cloud Config Server
